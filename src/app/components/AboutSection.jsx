@@ -11,10 +11,18 @@ const TAB_DATA = [
       <ul className="list-disc pl-2">
         <li>JavaScript</li>
         <li>ReactJS</li>
+        <li>MongoDB</li>
+        <li>Express</li>
+        <li>Node.js</li>
+        <li>Mern Stack Developer</li>
         <li>NextJS</li>
-        <li>Firebase</li>
-        <li>Digital Image Processing using Python</li>
         <li>Java</li>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Web Development</li>
+        <li>Git</li>
+        <li>Github</li>
+        <li>Visual Studio Code</li>
       </ul>
     ),
   },
@@ -23,8 +31,8 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>Ramjas School, Delhi</li>
-        <li>Shiv Nadar University, Delhi NCR</li>
+        <li>Dav Centenary Public School - Pehowa</li>
+        <li>Kurukshetra University - Kurukshetra</li>
       </ul>
     ),
   },
@@ -88,7 +96,7 @@ const AboutSection = () => {
               Certifications{" "}
             </TabButton>
           </div>
-          <div className="mt-8">
+          <div className="mt-5">
             {TAB_DATA.find((t) => t.id === tab).content}
           </div>
         </div>

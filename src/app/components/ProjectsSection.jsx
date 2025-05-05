@@ -20,8 +20,8 @@ const projectsData = [
     description: "Developed food ordering platforms for multiple restaurants, helping businesses streamline online orders.",
     image: "/images/project_2.png",
     tag: ["All Projects", "Client's Projects"],
-    gitUrl: "https://gmsfrontend.vercel.app/",
-    previewUrl: "https://github.com/neeraj1264/gmsfrontend",
+    gitUrl: "https://github.com/neeraj1264/gmsfrontend",
+    previewUrl: "https://gmsfrontend.vercel.app/",
   },
   {
     id: 3,
@@ -29,8 +29,8 @@ const projectsData = [
     description: "Developed food ordering platforms for multiple restaurants, helping businesses streamline online orders.",
     image: "/images/project_3.png",
     tag: ["All Projects", "Client's Projects"],
-    gitUrl: "https://foodieshub3-0.vercel.app/",
-    previewUrl: "https://github.com/neeraj1264/foodieshub3.0",
+    gitUrl: "https://github.com/neeraj1264/foodieshub3.0",
+    previewUrl: "https://foodieshub3-0.vercel.app/",
   },
   {
     id: 4,
@@ -38,7 +38,7 @@ const projectsData = [
     description: "A sleek and responsive static weather web application that displays real-time weather data for any city using OpenWeatherMap API. Designed with modern UI elements, this app provides temperature, humidity, weather conditions, and wind speed with intuitive visuals. Built for fast performance and ease of access, it’s a perfect demonstration of API integration in a front-end environment without a backend.",
     image: "/images/project_4.png",
     tag: ["All Projects", "Hobby Projects"],
-    gitUrl: "https://github.com/thearyanthegr8/Breeze2024",
+    gitUrl: "https://github.com/neeraj1264/WeatherApp",
     previewUrl: "https://neeraj1264.github.io/WeatherApp/",
   },
   {
