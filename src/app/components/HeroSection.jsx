@@ -40,7 +40,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-MERN Stack Developer | React.js | Node.js | MongoDB | Full Stack Web Developer | Building Scalable Web Application's
+MERN Stack Developer | React.js | Node.js | MongoDB | Full Stack Web Developer | Building Scalable Web Application&apos;s
           </p>
           <div>
             <Link
