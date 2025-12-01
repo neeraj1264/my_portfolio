@@ -8,11 +8,11 @@ const projectsData = [
   {
     id: 1,
     title: "Founder of BillZo",
-    description: "A mobile-first invoicing software that enables businesses to generate invoices, manage orders, and print receipts directly from their phones.",
-    image: "/images/project_1.jpg",
+    description: "A invoicing software that enables businesses to generate invoices, manage orders, and print receipts",
+    image: "/images/project_7.png",
     tag: ["All Projects", "Client's Projects"],
-    gitUrl: "https://github.com/neeraj1264/demo_billing_software",
-    previewUrl: "https://demo-billing-software.vercel.app/",
+    gitUrl: "https://github.com/neeraj1264/BillingSoftware_Demo_desktopView",
+    previewUrl: "https://billing-software-demo-desktop-view.vercel.app/",
   },
   {
     id: 2,
